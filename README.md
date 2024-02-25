@@ -1,4 +1,7 @@
+## githubURL && windowsパス
+https://github.com/okuyama-code
 
+cd ~/dev/git_conflict_pra && code .
 
 ## 課題
 下記の関数を書いてください。
