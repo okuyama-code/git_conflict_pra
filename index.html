@@ -1,0 +1,58 @@
+<!-- この左の"ようこそ"の背景色を赤に変える。
+
+この右の"株式会社OOカンパニーへ"の背景色を青、文字の色を白に変える。 -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="title" content="サンプルだよ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        .container {
+            width: 1080px;
+            margin: 40px auto;
+        }
+
+        .grid_layout {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .grid_layout__first {
+            padding: 16px;
+            box-sizing: border-box;
+            background-color: blue;
+            color: white;
+        }
+
+        .grid_layout__second {
+            background-color: red;
+            color: yellow;
+            font-size: 20px;
+            width: 400px;
+            padding: 16px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>My First Heading</h1>
+        <p>My first paragraph.</p>
+        <div class="grid_layout">
+            <div class="grid_layout__first">
+                ようこそ
+            </div>
+            <div class="grid_layout__second">
+                株式会社OOカンパニーへ
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
