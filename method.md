@@ -1,4 +1,5 @@
 chars 文字列の各文字を文字列の配列で返します。
+charsとは文字という意味　文字　char characterの省略
 
 uniq　配列から重複した要素を取り除いた新しい配列を返します。
 
@@ -28,3 +29,6 @@ ArgumentError: wrong number of arguments (given 0, expected 1+)
 from (pry):7:in `count
 
 ```
+
+配列.sample
+引数を指定しない場合は要素を1つランダムで取得します。
