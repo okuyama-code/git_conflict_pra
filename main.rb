@@ -22,7 +22,6 @@ def sample(string)
 
   end
 
-  # 2 ３文字とも違う場合
 
   # 全部違う
 end
