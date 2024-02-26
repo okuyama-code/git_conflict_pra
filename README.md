@@ -1,4 +1,4 @@
-## mainブランチのほうの文章
+## aaaブランチのほう
 
 ## githubURL && windowsパス
 https://github.com/okuyama-code/git_conflict_pra
