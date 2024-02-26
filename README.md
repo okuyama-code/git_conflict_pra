@@ -1,5 +1,5 @@
 ## githubURL && windowsパス
-https://github.com/okuyama-code
+https://github.com/okuyama-code/git_conflict_pra
 
 cd ~/dev/git_conflict_pra && code .
 
